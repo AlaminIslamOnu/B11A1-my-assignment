@@ -62,10 +62,46 @@
                            .box{display: flex;
                                justify-content: space-around;
                                align-items: center;
+                               gap:24px;
+                               border: 1px solid;
+                               height: 256px;
+          width:  100%;
+
                                 
                                }
                                .the-vision{background-color:#F1F1F3;
                                            border:1px solid;
                                            margin: 80px 160px 0 160px;}
    /* box design     */
-                                 
+    .box1{background-color: rgba(84, 144 , 244, 20%);
+          border-radius: 16px;
+          border: none;
+          padding: 25px;
+          
+          
+          
+
+    } 
+    .box2{background-color: rgb(197, 228, 214);
+        border-radius: 16px;
+        border: none;
+        padding: 25px;
+       
+         
+    }
+    .box3{background-color: #f6ebcf;
+        border-radius: 16px;
+        border: none;
+        padding: 25px;
+        }   
+        
+        .dr{background-image: url('./assets/quote-bg.png')  ;
+            background-repeat: no-repeat;
+           background-position: 10px 10px ;
+            
+            margin:32px 160px 0 160px;
+            border: 1px solid;
+            padding: 20px;
+            background-color: #FFFFFF;}
+
+       
