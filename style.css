@@ -104,4 +104,91 @@
             padding: 20px;
             background-color: #FFFFFF;}
 
-       
+                             /*    3rd page */
+
+.container2{margin:80px 160px 0px 160px;
+           gap:20px;
+
+              }
+              .containerbaba3{margin:24px 160px 0px 160px;
+
+              }
+.containerbaba{border: 1px solid; 
+               display: flex;
+               justify-content: space-between;
+               align-items: center;
+               padding: 20px;}
+
+               .containerbaba3{
+                border: 1px solid; 
+               display: flex;
+               justify-content: space-between;
+               align-items: center;
+               padding: 20px;
+               }
+                            /*    donate box */
+                            .donatebox{margin:80px 180px 0 160px;
+                                        background-color: whitesmoke;
+                                        border:1px solid;
+                                        text-align: center;
+                            }
+                            .boxparttwo{display:flex;
+                                       align-items: center;
+                                       justify-content: space-around;}
+
+                            .box4{background-color: gray;
+                                height: 128px;
+                                width: 240px;
+                                border-radius: 16px;
+                                color: #0E0E0E;
+                                text-align: center;
+                            }
+
+                            .box5{background-color: gray;
+                                height: 128px;
+                                width: 240px;
+                                border-radius: 16px;
+                                color: #0E0E0E;
+                                text-align: center;
+
+                            }
+                            .box6{background-color: gray;
+                                height: 128px;
+                                width: 240px;
+                                border-radius: 16px;
+                                color: #0E0E0E;
+                                text-align: center;
+
+                            }
+                            .box7{background-color: gray;
+                                height: 128px;
+                                width: 240px;
+                                border-radius: 16px;
+                                color: #0E0E0E;
+                                text-align: center;
+
+
+                            }
+                            .label{
+                                   text-align: center;
+                                   margin:32px 124px 88px 124px;
+                                  
+                            
+                            }
+                             .boxcontainer2{margin: 32px 100px 80px 100px;
+                                            display: flex;
+                                            align-items: center;
+                                            justify-content: space-around;
+                                            gap: 24px;
+
+                             }
+                       /*    newsletter part */
+                       .newsletter{ margin: 80px 180px 0 160px;
+                        border: 1px solid;
+                        text-align: center;
+                        background-color: #C6E4D6;
+
+                       }
+                       .size{padding:15px 20px;
+
+                       }
