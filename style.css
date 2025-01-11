@@ -74,23 +74,22 @@
                                justify-content: space-around;
                                align-items: center;
                                gap:24px;
-                               border: 1px solid;
+                              
                                height: 256px;
           width:  100%;
 
                                 
                                }
                                .the-vision{background-color:rgb(244, 246, 244);
-                                           border:1px solid;
+                                           
                                            margin: 80px 160px 0 160px;}
    /* box design     */
     .box1{background-color: rgba(84, 144 , 244, 20%);
           border-radius: 16px;
           border: none;
           padding: 25px;
-          
-
-  } 
+         
+          } 
   
 
 
@@ -109,18 +108,21 @@
         
         .dr{background-image: url('./assets/quote-bg.png')  ;
             background-repeat: no-repeat;
-           background-position: 10px 10px ;
+            background-position: 10px 10px ;
             border-radius: 10px;
-            margin:32px 160px 0 160px;
-            border: 1px solid;
+            
+            margin:32px 180px 0 160px;
             padding: 20px;
-            background-color: #FFFFFF;}
+            background-color: rgb(244, 246, 244);}
 
                              /*    3rd page */
+                
 
 .container2{margin:80px 160px 0px 160px;
            gap:20px; 
-
+           
+           background-color: #f6f6f5;
+           
               }
               .container2-image img {border-radius: 10px;}
 
@@ -130,18 +132,27 @@
               .containerbaba3{margin:24px 160px 0px 160px;
 
               }
-.conatinerbaba1{border: 1px solid; 
+                  
+
+
+
+
+.conatinerbaba1{
                display: flex;
                
                justify-content: space-between;
                align-items: center;
                padding: 20px;}
                .container2-content{margin-bottom: 56px;
-                                     margin-left: 24px;}
+                                     margin-left: 24px;
+                                     
+                                    }
 
                .containerbaba3{
-                border: 1px solid; 
+                
                display: flex;
+               gap:20px;
+
                justify-content: space-between;
                align-items: center;
                padding: 20px;
@@ -149,7 +160,7 @@
                             /*    donate box */
                             .donatebox{margin:80px 180px 0 160px;
                                         background-color: whitesmoke;
-                                        border:1px solid;
+                                      
                                         text-align: center;
                             }
                             .boxparttwo{display:flex;
@@ -207,10 +218,10 @@
                                 justify-content: center;
                                  align-content: center;
                                  width: 100%;
-                                 border: 1px solid;
+                                 
                                  
                                  }
-                                 .form-input{border: 1px solid;
+                                 .form-input{
                                               padding: 0 0 0 265px;}
                                  
 
@@ -227,25 +238,26 @@
                                             align-items: center;
                                             justify-content: space-around;
                                             gap: 24px;
+} 
 
-                             }
                        /*    newsletter part */
-                       .newsletter{ display: flex;
-                         align-items: center;
-                         justify-content: center;
-                        margin: 80px 180px 0 160px;
-                        border: 1px solid;
+                       .newsletter{display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        margin: 80px 180px 0 180px;
                         text-align: center;
                         background-color: #C6E4D6;
 
                        }
-                       .newslatterdiv{margin:80px 265px 80px 265px;
+                       .newslatterdiv{height: 395px;
+                                        width: 1280px; 
+                                        margin:80px 0 80px 0;
+                                        
+                       
 
                        }
 
 
 
 
-                       /* .size{padding:15px 20px;
-
-                       } */
+                      
